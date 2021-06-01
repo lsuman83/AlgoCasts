@@ -15,5 +15,5 @@ function palindrome(str) {
     return pal === str;
 }
 
-palindrome('greetings')
+
 module.exports = palindrome;
